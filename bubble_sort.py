@@ -10,3 +10,6 @@ def bubble(list_a):
                 sorted = False # These values are unsorted
                 list_a[i], list_a[i+1] = list_a[i+1], list_a[i] #Switch these values
     return list_a 
+#time complexity of Bubble Sort is O(n2)
+#https://www.studytonight.com/data-structures/bubble-sort
+#https://www.youtube.com/watch?v=g_xesqdQqvA&list=PLc_Ps3DdrcTsizjAG5uMhpoDfhDmxpOzv&t=0s
